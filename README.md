@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+---
+Title: Stony Ridge Observatory (SRO)
+---
 
-You can use the [editor on GitHub](https://github.com/nathanjstrange/nathanjstrange.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Stony Ridge Observatory (SRO)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SRO was originally designed and built, and continues to be owned and operated by amateur astronomers. This observatory has served its members, science investigators, students and the public (through planned outreach programs) since its completion in 1963.
 
-### Markdown
+Our observatory is perched on a ridge above the 2000-foot deep Devil's Canyon, about 6 miles (9.7 km) north by north-east of the historic Mt. Wilson Observatory. Stony Ridge is located very near a site that had been considered for the location of George Ellery Hale's "new" 200-inch (5-m) telescope. That location was at "Horse Flats" described in this 1928 paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanjstrange/nathanjstrange.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+After a 45-minute drive along the Angeles Crest Highway north of Pasadena, California, the visitor arrives at Stony Ridge Observatory in the heart of the beautiful Angeles National Forest.
