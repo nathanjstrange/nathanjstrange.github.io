@@ -12,7 +12,7 @@ The primary instrument at SRO is a fork-mounted, 30-inch (0.76-m) Newtonian-Cass
 
 The Station Fire nearly destroyed the observatory in the summer of 2009, has taken many years to bring the observatory up to full working condition in 2018.   We had many exciting plans for outreach and observing campaigns for 2020, but a mudslide on the Angeles Crest highway in 2019 amd the global pandemic in 2020 has put those plans on hold.   We are currently working on setting up video streaming from the telescope for outreach programs.  When we get it working, we'll put information on this page.
 
-## Visiting
+## Visiting & Events
 
 Stony Ridge Observatory is not opened to the general public. However, we will have public outreach events when it is safe again to do so.   To be notified of these vents, or for other queries, please email [outreach@sro.groups.io](mailto:outreach@sro.groups.io).
 
